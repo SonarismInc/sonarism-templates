@@ -15,3 +15,5 @@ description: >-
 
 [Noteshelf](http://www.noteshelf.net/)
 
+[Noteshelf 2 on App Store](https://itunes.apple.com/jp/app/noteshelf-2/id1271086060?mt=8&at=11l8yZ)
+
